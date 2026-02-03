@@ -1,0 +1,2 @@
+id,date,sport,team,speaker,role,interview_type,source,video_path,notes
+nfl_001,2025-01-26,NFL,RAMS,Sean_Mcvey,coach,postgame,youtube,data/raw/video/2025-01-videoplayback.mp4,sean mcvey after losing
