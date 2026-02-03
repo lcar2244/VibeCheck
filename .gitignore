@@ -1,0 +1,35 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Conda
+conda-meta/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data & artifacts (keep folders via .gitkeep)
+data/raw/*
+data/processed/*
+artifacts/*
+reports/figures/*
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.flac
+
+# Logs
+*.log
+"@ | Out-File -Encoding utf8 .gitignore
