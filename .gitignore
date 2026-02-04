@@ -21,6 +21,7 @@ Thumbs.db
 # Data & artifacts (keep folders via .gitkeep)
 data/raw/*
 data/processed/*
+!data/processed/metadata.csv
 artifacts/*
 reports/figures/*
 *.mp4
